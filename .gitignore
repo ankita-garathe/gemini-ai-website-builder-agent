@@ -10,7 +10,9 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
-src
+src/
+
+Day04/
 *.local
 
 
